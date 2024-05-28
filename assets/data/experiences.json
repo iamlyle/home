@@ -92,7 +92,7 @@
         "startAt": "04-05-2023",
         "companyName": "Bosch Global Software Technologies",
         "website": "https://www.bosch.com.vn/",
-        "logo": "/assets/template/experience/logo/bosch.png",
+        "logo": "assets/template/experience/logo/bosch.png",
         "city": "Tan Binh, Ho Chi Minh",
         "country": "Viet Nam",
         "role": "Embedded Software Engineer",
