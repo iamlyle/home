@@ -4,7 +4,7 @@ import { environment } from '../../environments/environment';
 @Component({
   selector: "app-welcome",
   templateUrl: "./welcome.component.html",
-  styleUrls: ["./welcome.component.css", "./welcome-component.responsivity.css"]
+  styleUrls: ["./welcome.component.scss", "./welcome-component.responsivity.css"]
 })
 
 export class WelcomeComponent {

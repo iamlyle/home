@@ -1,60 +1,76 @@
 
 @media screen and (max-width: 1024px) {
-    #welcome {
+    /* #welcome {
         height: 585px;
     }
     
     .layer_one .avatar-container .illustration {
         height: 585px;
+    } */
+    .welcome-container .welcome-text {
+        max-width: 100%;
     }
 }
-
+@media screen and (max-width: 1015px) {
+    .welcome-container .welcome-text {
+        max-width: 100%;
+    }
+}
 @media screen and (max-width: 880px) {
-    #welcome {
+/*     #welcome {
         height: 465px;
     }
     
     .layer_one .avatar-container .illustration {
         height: 465px;
-    }
+    } */
 }
 
 @media screen and (max-width: 720px) {
-    #welcome {
+/*     #welcome {
         height: 385px;
     }
     
     .layer_one .avatar-container .illustration {
         height: 385px;
-    }
+    } */
 }
 
 @media screen and (max-width: 600px) {
-    #welcome {
+/*     #welcome {
         height: 290px;
     }
     
     .layer_one .avatar-container .illustration {
         height: 290px;
-    } 
+    }  */
 }
 
 @media screen and (max-width: 500px) {
-    #welcome {
+/*     #welcome {
         height: 250px;
     }
     
     .layer_one .avatar-container .illustration {
         height: 250px;
-    } 
+    }  */
+    .welcome-container .welcome-text .custom-btn-group .custom-btn {
+        display: block;
+        margin: 10px 0;
+        text-align: center;
+    }
+    .welcome-container .welcome-text .big-text {
+        font-size: 1.5em;
+    }
+
 }
 
 @media screen and (max-width: 320px) {
-    #welcome {
+/*     #welcome {
         height: 220px;
     }
     
     .layer_one .avatar-container .illustration {
         height: 220px;
-    } 
+    }  */
 }

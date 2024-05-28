@@ -67,9 +67,8 @@
 
     .illustration {
         position: absolute;
-        height: 105%;
+        height: 100%;
         bottom: -1em;
-        right: 0;
         z-index: 1;
     }
 
@@ -262,6 +261,11 @@
     
         .right-side {
             flex-grow: 6;
+
+            .google-map{
+                z-index: 2;
+                margin-top: 52px;
+            }
         }
     
         &.fade {

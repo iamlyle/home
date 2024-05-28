@@ -9,7 +9,7 @@
             <fa-icon [icon]="faTimes" class="icon" title="Close" (click)="closeFeedbackMessage()"></fa-icon>
         </p>
     </div>
-    <div class="container" [ngClass]="{'fade': hasBeenSubmited}">
+    <div class="container row" [ngClass]="{'fade': hasBeenSubmited}">
         <div class="left-side">
             <div class="title">
                 <h1 i18n="nav@@contact">Contact</h1>
@@ -58,8 +58,12 @@
                 </form>
             </div>
         </div>
-        <div class="right-side"></div>
+        <!-- <div class="right-side">
+            <div class="google-map illustration w-100">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31352.811048301453!2d106.63267340758935!3d10.80354681818711!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3175293818af3a73%3A0xcd8d16d1180acc8b!2zVMOibiBCw6xuaCwgVGjDoG5oIHBo4buRIEjhu5MgQ2jDrSBNaW5oLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1716710580834!5m2!1svi!2s" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+            </div>
+        </div> -->
     </div>
-    <img loading="lazy" height="705" src="./assets/template/contact/lecongly_contact.png" class="illustration" alt="illustration" itemprop="avatar">
+
     <div class="half-circle"></div>
 </section>
