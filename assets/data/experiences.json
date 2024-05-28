@@ -61,6 +61,7 @@
         "id": 3,
         "position": 3,
         "startAt": "11-16-2020",
+        "endAt": "04-28-2023",
         "companyName": "Ban Vien",
         "website": "https://banvien.com/",
         "logo": "assets/template/experience/logo/banvien-logo.png",
@@ -81,6 +82,34 @@
                 "icon": "facebook",
                 "title": "Facebook Ban Vien",
                 "http": "https://vi-vn.facebook.com/banvienco/"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/rio.jpg"
+    },
+    {
+        "id": 4,
+        "position": 4,
+        "startAt": "04-05-2023",
+        "companyName": "Bosch Global Software Technologies",
+        "website": "https://www.bosch.com.vn/",
+        "logo": "/assets/template/experience/logo/bosch.png",
+        "city": "Tan Binh, Ho Chi Minh",
+        "country": "Viet Nam",
+        "role": "Embedded Software Engineer",
+        "description": "Bosch, a global leader in technology and services, employs hundreds of thousands of associates worldwide.With core operations in mobility solutions, industrial technology, consumer goods, and energy and building technology, Bosch offers a vast range of products and services.  They're a major player in the automotive industry, supplying components and systems for various vehicles.  Bosch is also known for high-quality consumer goods like appliances and power tools, and is at the forefront of developing connected and smart technologies for homes, factories, and even self-driving cars.<br><br>I work for a department specializing in power steering. In general, an important part of a good car is the control system. Our task is to meet customer requirements and make it even better, and safety is also very important, always like that. Here I am responsible for almost all stages from design, to code creation and even testing at different levels.",
+        "technologies": [
+            "C", "Python", "Autosar", "BSW", "ASW", "Astree", "Jira", "Bitbucket", "AEEE", "IBM ClearCase", "Microsoft Office" 
+        ],
+        "medias": [ 
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn Bosch",
+                "http": "https://www.linkedin.com/company/bosch"
+            },
+            {
+                "icon": "facebook",
+                "title": "Facebook Bosch",
+                "http": "https://www.facebook.com/OfficialBoschVietnam/"
             }
         ],
         "backgroundUrl": "assets/template/experience/rio.jpg"
